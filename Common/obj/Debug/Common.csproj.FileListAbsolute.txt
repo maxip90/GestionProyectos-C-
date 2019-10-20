@@ -1,0 +1,5 @@
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\Common\bin\Debug\Common.dll
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\Common\bin\Debug\Common.pdb
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\Common\obj\Debug\Common.dll
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\Common\obj\Debug\Common.pdb

@@ -1,0 +1,9 @@
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\DLL.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\DLL.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\BE.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\BE.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\obj\Debug\DLL.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\DLL\obj\Debug\DLL.pdb
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\Common.dll
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\DLL\bin\Debug\Common.pdb

@@ -1,0 +1,11 @@
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\BLL.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\BLL.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\BE.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\DLL.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\BE.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\DLL.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\obj\Debug\BLL.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BLL\obj\Debug\BLL.pdb
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\Common.dll
+C:\Users\maxia\OneDrive\Documentos\Visual Studio 2013\Projects\Gestion-Proyectos\BLL\bin\Debug\Common.pdb

@@ -1,0 +1,5 @@
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BE\bin\Debug\BE.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BE\bin\Debug\BE.pdb
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BE\obj\Debug\BE.dll
+c:\users\maxia\onedrive\documentos\visual studio 2013\Projects\Gestion-Proyectos\BE\obj\Debug\BE.pdb
